@@ -48,7 +48,6 @@ shreya = {
     "⚙️ tools":      ["MATLAB (Simulink)", "AutoCAD"],
     "📚 foundation": ["Power Electronics", "Circuit Systems", "Backend Dev"],
     "🌱 learning":   ["Embedded C", "Signal Processing"],
-    "💡 fun_fact":   "I build systems that talk to solar panels ☀️"
 }
 ```
 
