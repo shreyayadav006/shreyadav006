@@ -74,17 +74,6 @@ shreya = {
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyayadav006&theme=tokyonight&hide_border=true)
 
-</div>
-
----
-
-## 🏆 Achievements & Activities
-
-- 🛰️ **ISRO Hackathon** — Participant
-- 🎨 **Designing Head** — IEEE Student Branch, RGIPT *(Dec 2025 – Present)*
-- 🤝 **Member** — Alumni Student Committee, EEE Dept, RGIPT *(Oct 2025 – Present)*
-
----
 
 ## 📫 Where to find me
 
