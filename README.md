@@ -43,7 +43,7 @@
 ```python
 shreya = {
     "🎓 education":  "B.Tech EE (EV Technology) @ RGIPT Amethi (2024–2028)",
-    "💻 skills":     ["Python", "MySQL", "Flask", "Pandas", "Git"],
+    "💻 skills":     ["Python", "MySQL", "Flask", "Pandas", "Git", "MATLAB"],
     "🔧 hardware":   ["ESP32", "IoT Systems", "Real-time Monitoring"],
     "⚙️ tools":      ["MATLAB (Simulink)", "AutoCAD"],
     "📚 foundation": ["Power Electronics", "Circuit Systems", "Backend Dev"],
